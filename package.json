@@ -1,0 +1,23 @@
+{
+  "name": "react-native-spinner-wheel",
+  "version": "1.0.0",
+  "description": "A wheel for spin and win",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolvier/react-native-spinner-wheel.git"
+  },
+  "author": "Evolvier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolvier/react-native-spinner-wheel/issues"
+  },
+  "homepage": "https://github.com/evolvier/react-native-spinner-wheel#readme"
+}
