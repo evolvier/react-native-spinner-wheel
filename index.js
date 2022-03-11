@@ -7,11 +7,11 @@
 
 import React, { Component } from "react";
 
-import ReactNativeSelect from "./src";
+import ReactNativeSpinWheel from "./src";
 
 export class index extends Component {
   render() {
-    return <ReactNativeSelect {...this.props} />;
+    return <ReactNativeSpinWheel {...this.props} />;
   }
 }
 

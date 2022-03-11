@@ -16,7 +16,7 @@ export class index extends Component {
 
   render() {
     return (
-      <View style={this.getContainerStyle()}>
+      <View>
         <Text>Hello Midhun</Text>
       </View>
     );
